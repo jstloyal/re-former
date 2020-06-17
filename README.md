@@ -1,6 +1,6 @@
 # Form (re-former)
 
-In this project, we build a form using nearly-pure HTML and then the Rails way using the helper methods that Rails provides.
+In this project, we build a form using nearly-pure HTML and then using the helper methods that Rails provides.
 
 <!--
 *** Thanks for checking out this README Template. If you have a suggestion that would
