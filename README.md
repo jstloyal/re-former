@@ -27,7 +27,7 @@ In this project, we build a form using nearly-pure HTML and then the Rails way u
 <br />
 <p align="center">
   <a href="https://github.com/jstloyal/re-former">
-    <img src="images/microverse.png" alt="Microverse Logo" width="80" height="80">
+    <img src="app/assets/images/microverse.png" alt="Microverse Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Building form with Rails</h3>
