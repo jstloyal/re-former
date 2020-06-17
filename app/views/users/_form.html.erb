@@ -1,0 +1,13 @@
+<%= render 'shared/errors', object: @user %>
+
+<%= form_for @user do |f| %>
+
+    <%= f.label :username %>
+    <%= f.text_field :username, placeholder: "Enter your username" %><br><br>
+    <%= f.label :email %>
+    <%= f.text_field :email, placeholder: "Email address" %><br><br>
+    <%= f.label :password %>
+    <%= f.text_field :password, placeholder: "Type password" %><br><br>
+
+    <%= f.submit "Create account" %>
+<% end %>
