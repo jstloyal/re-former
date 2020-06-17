@@ -24,7 +24,7 @@ class UsersController < ApplicationController
     if @user.update(user_params)
       redirect_to new_user_path
     else
-      render 'edit'
+      render :edit
     end
   end
 
